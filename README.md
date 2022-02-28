@@ -1,6 +1,5 @@
 # random-insult
 ![](https://img.shields.io/npm/v/random-insult?style=flat-square)
-![](https://img.shields.io/bundlephobia/min/random-insult?color=green&style=flat-square)
 ![](https://img.shields.io/npm/l/random-insult?color=red&style=flat-square)
 
 
