@@ -1,0 +1,27 @@
+{
+  "name": "random-insult",
+  "version": "1.0.0",
+  "description": "Tiny NPM package that insults you, in a lot of ways.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixwetell/random-insult.git"
+  },
+  "keywords": [
+    "insult",
+    "random",
+    "tiny"
+  ],
+  "author": "Felix Wetell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felixwetell/random-insult/issues"
+  },
+  "homepage": "https://github.com/felixwetell/random-insult#readme"
+}
