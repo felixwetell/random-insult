@@ -2,11 +2,9 @@
 
 const insults = require('./collection.json')
 
-
 function me()
 {
     return insult[Math.floor(Math.random() * items.length)];
-
 }
 
 let insult = 
