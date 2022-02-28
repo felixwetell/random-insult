@@ -14,7 +14,8 @@ let insult =
     "Fuck you!",
     "I am do not like you.",
     "You are a moron.",
-    "YOU. ARE. AN. ASSHOLE."
+    "YOU. ARE. AN. ASSHOLE.",
+    "I am a bastard!"
 ]
 
 export {
