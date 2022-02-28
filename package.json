@@ -1,6 +1,6 @@
 {
   "name": "random-insult",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny NPM package that insults you, in a lot of ways.",
   "main": "index.js",
   "directories": {
@@ -18,7 +18,7 @@
     "random",
     "tiny"
   ],
-  "author": "Felix Wetell",
+  "author": "Felix Wetell <felix.wetell@gmail.com> (https://felixmade.me)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/felixwetell/random-insult/issues"
